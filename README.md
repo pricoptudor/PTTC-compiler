@@ -12,9 +12,9 @@ Pentru a testa un fisier de input se introduc instructiunile in acesta si se rul
 
 ### Cerinta:
 
-![Cerinta](/tema2021-22.docx)
+[Document cerinta](/tema2021-22.docx)
 
 
 ###### Next version:
 
-`Bug fixes` and proper `code jumps`(`control statements`,`functions`,...).
+`Bug fixes` and proper code jumps(`control statements`,`functions`,...).
