@@ -1,0 +1,79 @@
+<prog>
+
+	<global>
+		<comm>
+			Aici se declara variabile globale: 
+		</comm>
+        
+        int gl1;
+        bool gl2;
+        string gl3;
+		
+	</global>
+
+	<fnc&str>
+		<comm>
+			Aici se declara functiile si structurile: 
+		</comm>
+	    
+        <struct> str1 :
+
+             int x;
+        </struct>
+
+        <struct> str2:
+
+             int x;
+        </struct>
+
+        <func> int fnc1 ():
+            int y;
+            return 2;
+        </func>
+
+        <func> int fnc2 (int a, char b):
+            int c=3;
+            return "functie 2";
+        </func>
+
+	</fnc&str>
+
+	<main>
+		<comm>
+			Asta este functia principala: 
+		</comm>
+		
+        print ("Valoare functie: ",func fnc1());
+
+        int y=32;
+        
+        <if> (1==1) :
+            int y=3;
+        </if>
+        print(y);
+
+        gl3="Sir de caracter";
+        print(gl3);
+        
+        gl2=2;
+        print(gl2);
+		
+        char ch;
+        print(func fnc2(y,ch));
+
+        int expresie = 3+7*y-1;
+        int expresie2 = (3+7)*y-1;
+
+        print("prima expr:",expresie);
+        print("a doua expr:",expresie2);
+
+        array int vector;
+        vector.insert(3);
+        vector.insert(5);
+        vector.insert(6);
+    
+        print(vector.get(1));
+        
+        
+	</main>
+</prog>

@@ -1,0 +1,12 @@
+Nume: gl1, tip: integer, valoare: 0, constant: 0
+Nume: gl2, tip: bool, valoare: true, constant: 0
+Nume: gl3, tip: string, valoare: Sir de caracter, constant: 0
+Nume: y, tip: integer, valoare: 0, constant: 0
+Nume: c, tip: integer, valoare: 3, constant: 0
+Nume: y, tip: integer, valoare: 32, constant: 0
+Nume: y, tip: integer, valoare: 3, constant: 0
+Nume: ch, tip: char, valoare: constant: 0
+Nume: expresie, tip: integer, valoare: 226, constant: 0
+Nume: expresie2, tip: integer, valoare: 319, constant: 0
+Nume: vector, tip: array integer, valoare 0: 3, valoare 1: 5, valoare 2: 6, constant: 0
+Nume structura: str1, Camp 0: x, Nume structura: str2, Camp 0: x, 
